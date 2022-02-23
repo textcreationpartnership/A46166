@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas Rory Mac Randal Mac Donnel late of the barony of Dungannon in the county of Tyrone, Owen Doo Mac Donnel of the same, Toole Ballagh Mac Donnel late of Croskevenagh in the barony and county aforesaid, [and 16 others] and their complices have in the counties of Monoghan, Antrim, Downe, Tyrone and Londonderry, and other places appeared in arms against His Majesties authority, and several of them have committed murders, burglaries, robberies and stealths ... by the Lord Deputy and Council, Ossory.</title>
+            <author>Ireland. Lord Deputy.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46166</idno>
+            <idno type="STC">Wing I864</idno>
+            <idno type="STC">ESTC R178866</idno>
+            <idno type="EEBO-CITATION">16156565</idno>
+            <idno type="OCLC">ocm 16156565</idno>
+            <idno type="VID">104911</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46166)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104911)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1595:45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas Rory Mac Randal Mac Donnel late of the barony of Dungannon in the county of Tyrone, Owen Doo Mac Donnel of the same, Toole Ballagh Mac Donnel late of Croskevenagh in the barony and county aforesaid, [and 16 others] and their complices have in the counties of Monoghan, Antrim, Downe, Tyrone and Londonderry, and other places appeared in arms against His Majesties authority, and several of them have committed murders, burglaries, robberies and stealths ... by the Lord Deputy and Council, Ossory.</title>
+                  <author>Ireland. Lord Deputy.</author>
+                  <author>Ossory, Thomas Butler, Earl of, 1634-1680.</author>
+               </titleStmt>
+               <extent>[2] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Crook ... and are to be sold by Samuel Dancer ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from text.</note>
+                  <note>Statement of responsibility transposed from head of title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at the Council chamber in Dublin the third day of June 1668"--leaf [2]</note>
+                  <note>Broadside in [2] leaves.</note>
+                  <note>Reproduction of original in the Society of Antiquaries Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brigands and robbers --  Ireland.</term>
+               <term>Ireland --  History --  1649-1775.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104911:1"/>
+            <head>BY THE LORD DEPUTY AND COUNCIL</head>
+            <opener>
+               <salute>OSSORY,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS <hi>Rory</hi> mac <hi>Randal</hi> mac <hi>Donnel</hi> late of the Baro<g ref="char:EOLhyphen"/>ny of <hi>Dungannon</hi> in the County of <hi>Tyrone, Owen Doo</hi> mac <hi>Donnel</hi> of the ſame, <hi>Toole Ballagh</hi> mac <hi>Donnel</hi> late of <hi>Croſ<g ref="char:EOLhyphen"/>kevenagh</hi> in the Barony and County aforeſaid, <hi>Ferdarrogh</hi> mac <hi>Donnel</hi> late of the ſame, <hi>Gorrhy ô Cahane</hi> late of the Barony aforeſaid, <hi>Gillespick</hi> mac <hi>Donnel</hi> late of the ſaid Barony, <hi>Bryan Roe ô Cahan</hi> late of the ſame, <hi>Shane ô Cahan</hi> late of the ſame, <hi>Patrick</hi> mac <hi>Cormick ô Hagan</hi> late of the Pariſh of <hi>Ballynaskreen</hi> in the County of <hi>Londonderry, Patrick ô Hagan</hi> late of the ſame, <hi>Shane ô Hagan</hi> late of the ſame, <hi>Robert Hamilton</hi> late of Caſtle <hi>Caulfield</hi> in the County of <hi>Tyrone, William Miller</hi> late of the Pariſh of <hi>Carinteele</hi> in the ſaid County, <hi>Conn</hi> mac <hi>Neale Oge ô Neale</hi> mac <hi>Art,</hi> mac <hi>Hugh Mergagh ô Neale</hi> late of the Pariſh of <hi>Longfield</hi> in the County of <hi>Tyrone, Thomas</hi> mac <hi>Gragh</hi> late of the Pariſh of <hi>Dromore</hi> in the ſaid County, <hi>Bryan</hi> mac <hi>Donnel Carragh</hi> mac <hi>Cawell</hi> late of the Pariſh of <hi>Donagh Cavagh</hi> in the County of <hi>Tyrone, Hugh</hi> mac <hi>Murchy</hi> late of the Pariſh of <hi>Aghalurgher</hi> in the County of <hi>Fermanagh, Hugh</hi> mac <hi>Mahon</hi> late of the Barony of <hi>Dartry</hi> and County of <hi>Monaghan,</hi> and <hi>Edmond ô Moylan</hi> late of the Pariſh of <hi>Ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lyneskreen</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Londonderry,</hi> and their Complices have in the Counties of <hi>Monoghan, Antrim, Downe, Tyrone</hi> and <hi>Londonderry,</hi> and other places appeared in Arms againſt His Majeſties Authority, and ſeveral of them have committed Murders, Burglaries, Robberies and Stealthes, beſides divers other outrages to the terror and annoyance of His Maieſties loyal and good Subiects, and to the diſturbance of the peace of the Kingdom, upon which miſdeameanors and Crimes, being purſued by ſome of His Majeſties good Subjects, aſſiſted by ſome of His Ma<g ref="char:EOLhyphen"/>jeſties Army, they the ſaid <hi>Rory</hi> mac <hi>Randal</hi> mac <hi>Donnel, Owen Doo</hi> mac <hi>Donnel, Toole Ballagh</hi> mac <hi>Donnel, Ferdarrogh</hi> mac <hi>Donnel, Gorrhy ô Cahane, Gilleſpick</hi> mac <hi>Donnel, Bryan Roe ô Cahan, Shane ô Cahan, Patrick</hi> mac <hi>Cormick ô Haggan, Patrick ô Haggan, Shane ô Haggan, Ro<g ref="char:EOLhyphen"/>bert Hamilton, William Mi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ler, Conn</hi> mac <hi>N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ale Oge ô Neale</hi> mac <hi>Art</hi> mac <hi>Hugh Mergagh ô Neale, Thomas</hi> mac <hi>Gragh, Bryan</hi> mac <hi>Donnel, Carragh</hi> mac <hi>Cawell, Hugh</hi> mac <hi>Murchy, Hugh</hi> mac <hi>Mahon,</hi> and <hi>Edmond ô Moylan</hi> and their complices are <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the Woods and Mountains, where they ſtand upon their keeping ſo as they are not anſwerable to Law, but wilful contemners of the ſame. And whereas <hi>Donnogh Roe Kevannagh, Peirce Fitz Harris,</hi> alias <hi>Peirce Bane</hi> were legally convicted and condemned at the Aſſizes held for the County of <hi>Wexford</hi> for a Robbery committed on one <hi>Cubba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge;</hi> And whereas <hi>Edmond Roe Brannagh,</hi> and <hi>Paul Murphy</hi> were alſo legally convicted and condemned at the Aſſizes held for the ſaid County of <hi>Wexford</hi> for a Barbarous and inhumane act the cutting out a mans tongue, And whereas ſince the ſaid condemnation they the ſaid <hi>Donnogh Roe Kevanagh, Peirce Fitz Harris</hi> alias <hi>Peirce Bane, Edmond Roe Brannagh,</hi> and <hi>Paul Murphey</hi> have broaken the Goale at <hi>Wexford,</hi> and ſo made their eſcape to the Woods and Mountains where they ſtand upon their keeping, ſo as they are not ameanable to Law, but wilful contemners of the ſame, And f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raſmuch as the actors of thoſe diſorders and offences cannot as yet be apprehended, where<g ref="char:EOLhyphen"/>by they may be puniſhed by the ordinary courſe of Law, whence we might juſtly be moved ac<g ref="char:EOLhyphen"/>cording to the former uſage and cuſtome in this Kingdom in caſes of like nature to cauſe them to be fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thwith proclaimed Rebels and Traytors, yet in mercy to them we think fit hereby to charge and command them upon their duty of Allegiance to His Maieſtie that they and every of them do before the <hi>24th</hi> day of this preſent <hi>June</hi> render their perſans to any of His Ma<g ref="char:EOLhyphen"/>jeſties Iuſtices of Peace, and ſubmit themſelves to His Majeſties Iuſtice to be tryed for their offences according to the Laws of the Land, wherein if they or any of them ſhall ſaile, we do hereby publiſh and declare, that he or they ſo failing, and ſuch as ſhall accompany, and adhere
+<pb facs="tcp:104911:2"/>to them after the publication of this Proclamation, and every of them are from and immedi<g ref="char:EOLhyphen"/>atly after the ſaid <hi>24th</hi> day of this preſent <hi>June,</hi> to be called reputed and taken for notorious Rebels and Traytors againſt His Majeſtie, and accordingly to be proſecuted by all His Ma<g ref="char:EOLhyphen"/>jeſties loving and good Subjects in all hoſtile manner. And we declare further, that whatſoe<g ref="char:EOLhyphen"/>ver perſon or perſons ſhall comfort releive or abet them, or any of them, or any of their con<g ref="char:EOLhyphen"/>federats or adherents, they are and ſhall be reputed, deemed, and adjudged Traytors in like degree with the forenamed, Traytors and Rebels themſelves, and we do in His Majeſties name ſtraight<g ref="char:EOLhyphen"/>ly charge and command all His Majeſties loyal Subjects upon their duty of allegiance to His Majeſtie not onely to forbear to receive or releive them, the ſaid <hi>Rory</hi> mac <hi>Randal</hi> mac <hi>Donnel, Owen Doo</hi> mac <hi>Donnel, Toole Ballagh</hi> mac <hi>Donnel, Ferdarrogh</hi> mac <hi>Donnel, Gorrhy ô Cahane, Gilleſpick</hi> mac <hi>Donnel, Bryan Roe ô Cahan, Shane ô Cahan, Patrick</hi> mac <hi>Cormick ô Hagan, Patrick ô Hagan, Shane ô Hagan, Robert Hamilton, William Miller, Conn</hi> mac <hi>Neale Oge ô Neale</hi> mac <hi>Art</hi> mac <hi>Hugh Mergagh ô Neale, Thomas</hi> mac <hi>Gragh, Bryan</hi> mac <hi>Donnel, Carragh</hi> mac <hi>Cawell, Hugh</hi> mac <hi>Murchy, Hugh</hi> mac <hi>Mahon, Edmond ô Moylan, Donnogh Roe Kevanagh, Peirce Fitz Harris</hi> alias <hi>Peirce Bane, Edmond Roe Brannagh,</hi> and <hi>Paul Murphey,</hi> or any of them, or any of their confederats or adherents, but alſo to make diligent ſearch and inquirie in what place or places the ſaid <hi>Rory</hi> mac <hi>Randal</hi> mac <hi>Donnel, Owen Doo</hi> mac <hi>Donnel, Toole Ballagh</hi> mac <hi>Donnel, Ferdarragh</hi> mac <hi>Donnel, Gorrhy ô Cahane, Gilleſpick</hi> mac <hi>Donnel, Bryan Roe ô Cahan, Shane ô Cahan, Patrick</hi> mac <hi>Cormick ô Hagan, Patrick ô Hagan, Shane ô Hagan, Robert Hamilton, William Miller, Conn</hi> mac <hi>Neale Oge ô Neale</hi> mac <hi>Art</hi> mac <hi>Hugh Mergagh ô Neale, Thomas</hi> mac <hi>Gragh, Bryan</hi> mac <hi>Donnel, Carragh</hi> mac <hi>Cawell, Hugh</hi> mac <hi>Murchy, Hugh</hi> mac <hi>Mahon, Edmond ô Moy<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an, Donnogh Roe Kevannagh, Peirce Fitz Harris</hi> alias <hi>Peirce Bane, Ed<g ref="char:EOLhyphen"/>mond Roe Brannagh,</hi> and <hi>Paul Murphey,</hi> or their confederats ſhall from time to time lurke or be releived, and by all means poſſible to proſecute apprehend and take the Bodies of them and their adherents, and them to bring or cauſe to be brought under ſafe cuſtodie unto the High Sheriffs of the reſpective Counties where any of them ſhall be apprehended, to be by ſuch Sheriffs kept in ſtrict and ſafe cuſtody till we upon notice thereof ſhall give further direction concerning them, or reſiſting and refuſing to be taken to kill them or any of them; And we do hereby declare that whoſoever ſhall after the ſaid <hi>24th</hi> day of this preſent <hi>June,</hi> bring unto any Sheriff the Body of the ſaid <hi>Rory</hi> mac <hi>Randal</hi> mac <hi>Donnel Owen Doo</hi> mac <hi>Donnel, Toole Ba<g ref="char:EOLhyphen"/>lagh</hi> mac <hi>Donnel, Ferdarrogh</hi> mac <hi>Donnel, Gorrhy ô Cahane, Gilleſpick</hi> mac <hi>Donnel, Bryan Roe ô Cahan, Shane ô Cahan, Patrick</hi> mac <hi>Cormick ô Hagan, Patrick ô Hagan, Shane ô Hagan, Robert, Hamilton, William Miller, Conn</hi> mac <hi>Neale Oge ô Neale</hi> mac <hi>Art</hi> mac <hi>Hugh Mergagh ô Neale, Thomas</hi> mac <hi>Gragh, Bryan</hi> mac <hi>Donnel, Carragh</hi> mac <hi>Cawell, Hugh</hi> mac <hi>Murchy, Hugh</hi> mac <hi>Mahon, Edmond ô Moylan, Donnogh Roe Kevanagh, Peirce Fitz Harris</hi> alias <hi>Peirce Bane, Ed<g ref="char:EOLhyphen"/>mund Roe Brannagh</hi> and <hi>Paul Murphey,</hi> or any of them alive, or kill any of them, and bring his Head to the Sheriff of the County where he ſhall be killed, (to be by ſuch Sheriff ſet up in ſome publick place in that County) ſhall have for his reward, for each perſon ſo brought in or his Head Ten pounds to be paid him by ſuch Sheriff, and to be allowed to ſuch Sheriff up<g ref="char:EOLhyphen"/>on his accompt to be rendered in His Maieſties Court of Exchequer, and whoſoever of the complices of the ſaid proclaimed perſons ſhall after the ſaid <hi>24th</hi> day of this preſent <hi>June</hi> ap<g ref="char:EOLhyphen"/>prehend or kill as aforeſaid, any of the ſaid Rebels and Traytors particularly named he ſhall together with the ſaid reward receive his Pardon, and towards the Speedy effecting of this Service, all Commanders and Officers of Horſe and Foot, and all other His Maieſties Officers and loving Subjects are to be aiding and aſſiſting as they and every of them will anſwer the contrary at their perils.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at the Council Chamber in <hi>Dublin</hi>
+                  </hi> 
+                  <date>
+                     <hi>the Third day of <hi>June</hi> 1668.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Ja. Armachanus.</item>
+                     <item>Mich. Dublin. Canc.</item>
+                     <item>Donegall.</item>
+                     <item>Maſſereene.</item>
+                     <item>Henry Midenſis.</item>
+                     <item>J. Temple.</item>
+                     <item>Robert Forth.</item>
+                  </list>
+               </signed>
+            </closer>
+            <closer>GOD Save the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>John Crook,</hi> Printer to the Kings moſt excellent Majeſtie, and are to be ſold by <hi>Samuel Dancer</hi> in <hi>Caſtleſtreet.</hi> 1668.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
